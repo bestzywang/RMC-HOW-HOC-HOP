@@ -1,2 +1,1 @@
-# RMC-HOW-HOC-HOP
-Robust low-rank matrix recovery via hybrid ordinary-Welsch/Cauchy/Lp function
+# Robust low-rank matrix completion via hybrid ordinary-Welsch/Cauchy/Lp function
